@@ -1,0 +1,6 @@
+# Distribution / packaging
+node_modules/
+reports/
+logs/
+dist/
+.*.cache
